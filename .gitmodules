@@ -1,0 +1,6 @@
+[submodule "lib/setup"]
+	path = lib/setup
+	url = https://github.com/Aryailia/glitch-setup.git
+[submodule "setup"]
+	path = setup
+	url = https://github.com/Aryailia/glitch-setup
